@@ -1,4 +1,4 @@
-# *EXP - 8 - THRESHOLDING:*
+## *EXP - 8 - THRESHOLDING:*
 
 ## AIM:
 
@@ -41,7 +41,7 @@ import matplotlib.pyplot as plt
 ```
 
 ```
-image = cv2.imread('sai1.jpeg')  
+image = cv2.imread('loki1.jpeg')  
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)  
 ```
 
